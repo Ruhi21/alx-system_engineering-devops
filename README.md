@@ -1,1 +1,1 @@
-readme shell redirections
+readme shell variables expansions
